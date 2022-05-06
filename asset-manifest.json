@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/nomadweather/static/js/app.4cc4e2bd.chunk.js",
+    "app.js.map": "/nomadweather/static/js/app.4cc4e2bd.chunk.js.map",
+    "runtime~app.js": "/nomadweather/static/js/runtime~app.c74abf09.js",
+    "runtime~app.js.map": "/nomadweather/static/js/runtime~app.c74abf09.js.map",
+    "static/js/2.cfbdaea8.chunk.js": "/nomadweather/static/js/2.cfbdaea8.chunk.js",
+    "static/js/2.cfbdaea8.chunk.js.map": "/nomadweather/static/js/2.cfbdaea8.chunk.js.map",
+    "fonts/AntDesign.ttf": "/nomadweather/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/nomadweather/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/nomadweather/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/nomadweather/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/nomadweather/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/nomadweather/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/nomadweather/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/nomadweather/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/nomadweather/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/nomadweather/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/nomadweather/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/nomadweather/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/nomadweather/favicon-16.png",
+    "favicon-32.png": "/nomadweather/favicon-32.png",
+    "favicon.ico": "/nomadweather/favicon.ico",
+    "index.html": "/nomadweather/index.html",
+    "manifest.json": "/nomadweather/manifest.json",
+    "serve.json": "/nomadweather/serve.json",
+    "static/js/2.cfbdaea8.chunk.js.LICENSE.txt": "/nomadweather/static/js/2.cfbdaea8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.c74abf09.js",
+    "static/js/2.cfbdaea8.chunk.js",
+    "static/js/app.4cc4e2bd.chunk.js"
+  ]
+}
